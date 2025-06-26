@@ -1,7 +1,5 @@
 # Cosmetic-Insights-Navigating-Cosmetics-Trends-and-Consumer-Insights-with-Tableau
 
-# Cosmetic Insights: Navigating Cosmetics Trends and Consumer Insights with Tableau
-
 This project explores the cosmetics industry using data-driven insights and Tableau visualizations. It analyzes trends, consumer behavior, product preferences, and market dynamics to help businesses make strategic decisions.
 
 ## 📊 Project Overview
