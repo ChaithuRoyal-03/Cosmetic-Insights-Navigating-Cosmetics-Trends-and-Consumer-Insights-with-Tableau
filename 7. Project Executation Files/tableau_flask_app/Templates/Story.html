@@ -1,0 +1,18 @@
+
+
+
+<h1>Story</h1>
+<div class="tableauPlaceholder" id="storyViz"></div>
+<script type="text/javascript">
+  var containerDiv = document.getElementById("storyViz");
+  var vizElement = document.createElement("object");
+  vizElement.className = "tableauViz";
+  vizElement.style.width = "100%";
+  vizElement.style.height = "90vh";
+  vizElement.setAttribute("tableauDashboard", "YOUR_TABLEAU_STORY_URL");
+  containerDiv.appendChild(vizElement);
+
+  var scriptElement = document.createElement("script");
+  scriptElement.src = "https://public.tableau.com/javascripts/api/viz_v1.js";
+  containerDiv.appendChild(scriptElement);
+</script>
